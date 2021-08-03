@@ -97,3 +97,14 @@ span{
 	color: white;
 	text-shadow: 0px 0px 10px white;
 }
+.text-fix{
+	position: fixed;
+	bottom: 5px;
+	right: 5px;
+}
+.text-fix a{
+	color: black;
+}
+.dark a{
+	color: white;
+}
